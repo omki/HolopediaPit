@@ -1,5 +1,5 @@
 {
-    "name": "Generator",
+    "name": "HPa Generator",
     "version": "0.94-31",
     "revision": "ca8ae99",
     "description": "Generate signal at RF output on the Red Pitaya"
